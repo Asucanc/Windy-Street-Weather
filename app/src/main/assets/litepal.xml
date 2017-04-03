@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="windy_street" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.kenshin.windystreet.db.Province" />
+        <mapping class="com.kenshin.windystreet.db.City" />
+        <mapping class="com.kenshin.windystreet.db.County" />
+    </list>
+
+</litepal>
